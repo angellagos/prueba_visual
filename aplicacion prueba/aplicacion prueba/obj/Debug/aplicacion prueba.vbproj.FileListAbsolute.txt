@@ -1,0 +1,2 @@
+C:\Users\Angel\AppData\Local\Temporary Projects\aplicacion prueba\bin\Debug\aplicacion prueba.exe.config
+C:\Users\Angel\Desktop\visual\aplicacion prueba\aplicacion prueba\bin\Debug\aplicacion prueba.exe.config
